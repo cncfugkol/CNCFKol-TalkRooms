@@ -1,4 +1,4 @@
-# ![image](https://user-images.githubusercontent.com/103309340/232316241-dd3f188b-5906-41d4-bcd2-9e05d00792c8.png) Welcome to CNCFKol-TalkRooms!
+# ![image](https://user-images.githubusercontent.com/103309340/232316849-c8098aac-ea25-49ae-8754-63f1a2848b2a.png) Welcome to CNCFKol-TalkRooms!
 
 CNCFKol-TalkRooms is an online platform that serves as a hub for members of the CNCF (Cloud Native Computing Foundation) Kolkata community to engage in discussions, share ideas, and stay up-to-date with the latest trends and developments in cloud native technologies. The platform provides a space where members can collaborate, ask questions, and share their expertise with one another.
 
